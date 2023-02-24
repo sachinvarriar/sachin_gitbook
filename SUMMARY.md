@@ -21,3 +21,4 @@
   * [Rule 1 - worst case](mlops-and-best-practices/big-o/rule-1-worst-case.md)
   * [Rule 2 - Remove Constants](mlops-and-best-practices/big-o/rule-2-remove-constants.md)
   * [Rule 3 - Different terms for inputs](mlops-and-best-practices/big-o/rule-3-different-terms-for-inputs.md)
+  * [Rule 4 - Drop Non Dominant terms](mlops-and-best-practices/big-o/rule-4-drop-non-dominant-terms.md)
