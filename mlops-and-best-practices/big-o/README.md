@@ -16,3 +16,4 @@ No matter the number of elements in an array, we do the same number of operation
 
 <figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
+Note: O(log n) is used in searching algorithms, O(n log n) is found used in sorting algorithms, O(2^n) is used when we use recurssive algorithms
