@@ -17,3 +17,7 @@ No matter the number of elements in an array, we do the same number of operation
 <figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 Note: O(log n) is used in searching algorithms, O(n log n) is found used in sorting algorithms, O(2^n) is used when we use recurssive algorithms
+
+
+
+Cheat sheet for big O can be found here [https://zerotomastery.io/cheatsheets/big-o-cheat-sheet/?utm\_source=udemy\&utm\_medium=coursecontent](https://zerotomastery.io/cheatsheets/big-o-cheat-sheet/?utm\_source=udemy\&utm\_medium=coursecontent)
