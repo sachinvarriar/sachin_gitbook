@@ -19,3 +19,4 @@
 * [Filing Expenses](mlops-and-best-practices/filing-expenses.md)
 * [big O](mlops-and-best-practices/big-o/README.md)
   * [Rule 1 - worst case](mlops-and-best-practices/big-o/rule-1-worst-case.md)
+  * [Rule 2 - Remove Constants](mlops-and-best-practices/big-o/rule-2-remove-constants.md)
