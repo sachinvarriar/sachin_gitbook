@@ -12,11 +12,15 @@
   * [Maximum matching](data-science-and-ml-models/clustering-validation-techniques/maximum-matching.md)
   * [F-measure](data-science-and-ml-models/clustering-validation-techniques/f-measure.md)
   * [Conditional Entropy](data-science-and-ml-models/clustering-validation-techniques/conditional-entropy.md)
+  * [Normalized Mutual Information](data-science-and-ml-models/clustering-validation-techniques/normalized-mutual-information.md)
 
 ## MLOps and best practices
 
 * [Requesting Time Off](mlops-and-best-practices/requesting-time-off.md)
 * [Filing Expenses](mlops-and-best-practices/filing-expenses.md)
+* [Data Science Interview Preparation](mlops-and-best-practices/data-science-interview-preparation/README.md)
+  * [Data Structures and Algorithms](mlops-and-best-practices/data-science-interview-preparation/data-structures-and-algorithms/README.md)
+    * [Arrays](mlops-and-best-practices/data-science-interview-preparation/data-structures-and-algorithms/arrays.md)
 * [big O](mlops-and-best-practices/big-o/README.md)
   * [Rule 1 - worst case](mlops-and-best-practices/big-o/rule-1-worst-case.md)
   * [Rule 2 - Remove Constants](mlops-and-best-practices/big-o/rule-2-remove-constants.md)
