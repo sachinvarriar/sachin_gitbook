@@ -6,6 +6,7 @@
 
 * [Meet the Team!](data-science-and-ml-models/meet-the-team.md)
 * [Linear Regression](data-science-and-ml-models/linear-regression.md)
+* [Bias and Variance in Machine Learning](data-science-and-ml-models/bias-and-variance-in-machine-learning.md)
 * [Clustering Validation Techniques](data-science-and-ml-models/clustering-validation-techniques/README.md)
   * [External methods](data-science-and-ml-models/clustering-validation-techniques/external-methods.md)
   * [Purity](data-science-and-ml-models/clustering-validation-techniques/purity.md)
