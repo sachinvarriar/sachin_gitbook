@@ -4,10 +4,10 @@
 
 In machine learning, an error is a measure of the accuracy of an algorithm/model to predict an unknown dataset. There are two type of error measures:
 
-* Reducible errors: These errors can be reduced to improve the model accuracy. The two reducible errors we work on are bias and variance.
-  * Bias:  The inability of a ML method to capture the true relationship. eg. Linear regression over a quadratic/polynomial relationship. The linear equation obtained has high bias.
-  * Variance: The difference in fits between the train and test set is called as variance. In the above mentioned case of a linear regression fit over a otherwise possible quadratic equation, the linear equation has low variance.
-* Irreducible errors: These errors can not be eliminated and will always be present in the model
+* **Reducible errors**: These errors can be reduced to improve the model accuracy. The two reducible errors we work on are bias and variance.
+  * **Bias**:  The inability of a ML method to capture the true relationship. eg. Linear regression over a quadratic/polynomial relationship. The linear equation obtained has high bias.
+  * **Variance**: The difference in fits between the train and test set is called as variance. In the above mentioned case of a linear regression fit over a otherwise possible quadratic equation, the linear equation has low variance.
+* **Irreducible errors**: These errors can not be eliminated and will always be present in the model
 
 ### Bias-Variance Tradeoff
 
@@ -17,23 +17,23 @@ The ideal ML model will have low bias and low variance. This is done by using so
 
 The different kind of models that we may get are
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-Low Bias - Low Variance: This is the best case, but not practical always
+**Low Bias - Low Variance**: This is the best case, but not practical always
 
-Low Bias - High variance: Model predictions are inconsistent. These models typically have more parameters/features and lead to over-fitting
+**Low Bias - High variance**: Model predictions are inconsistent. These models typically have more parameters/features and lead to over-fitting
 
-High bias - Low variance: These models don't learn well from the train dataset or have very few parameters/features. This leads to under-fitting
+**High bias - Low variance**: These models don't learn well from the train dataset or have very few parameters/features. This leads to under-fitting
 
-High bias- High Variance: Inconsistent results and low accuracy.
+**High bias- High Variance**: Inconsistent results and low accuracy.
 
 
 
 ### Identifying High variance and High Bias
 
-High variance: When a model has low training error and high test error
+**High variance**: When a model has low training error and high test error
 
-High Bias: High training error and test error is similar to the training error
+**High Bias**: High training error and test error is similar to the training error
 
 
 
