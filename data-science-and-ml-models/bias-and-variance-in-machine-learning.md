@@ -45,3 +45,5 @@ For an accurate prediction of the model, algorithms need a low variance and low 
 * If we decrease the bias, it will increase the variance.
 
 As a result we need to find the sweet spot between variance and bias&#x20;
+
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
