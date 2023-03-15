@@ -17,7 +17,7 @@ The ideal ML model will have low bias and low variance. This is done by using so
 
 The different kind of models that we may get are
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 **Low Bias - Low Variance**: This is the best case, but not practical always
 
