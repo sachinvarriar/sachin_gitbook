@@ -10,6 +10,8 @@ The numpy package enables Python to have 1d, 2d arrays which can be used for com
 
 The equivalent data structure in R is a vector. R also has a list data type which like it's python equivalent can house multiple data types and data structures within it. In R vectors and lists, the index of data structures starts at position 1 unlike python or C++
 
+Note: Pay attention to the bigO notations in the comments. It is written in terms of time complexity of each operation.
+
 {% code title="Create_n_append_list.py" lineNumbers="true" %}
 ```python
 fruits = ['apple','mango','banana']
@@ -37,3 +39,12 @@ We can remove the last added value to a list using the below syntax
 ```python
 fruits.pop() #bigO notation // O(1)
 ```
+
+If we wish to add a new value to the list at a particular position and push the values forward from the index to which we wish to add the value, we use a function called insert
+
+{% code overflow="wrap" lineNumbers="true" %}
+```python
+fruits.insert(0,'orange') #bigO notation //O(n) since it has to iterate through the data and push values forward
+fruits
+```
+{% endcode %}
