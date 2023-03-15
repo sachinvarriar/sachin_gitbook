@@ -13,7 +13,7 @@ The equivalent data structure in R is a vector. R also has a list data type whic
 {% code title="Create_n_append_list.py" lineNumbers="true" %}
 ```python
 fruits = ['apple','mango','banana']
-fruits.append('orange')
+fruits.append('orange') #bigO notation //O(1)
 print(fruits)
 ```
 {% endcode %}
@@ -31,3 +31,9 @@ fruits[:-1]
 {% endcode %}
 
 This script illustrates how to work with list indexes
+
+We can remove the last added value to a list using the below syntax
+
+```python
+fruits.pop() #bigO notation // O(1)
+```
