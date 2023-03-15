@@ -12,7 +12,7 @@ The equivalent data structure in R is a vector. R also has a list data type whic
 
 Note: Pay attention to the bigO notations in the comments. It is written in terms of time complexity of each operation.
 
-{% code title="Create_n_append_list.py" lineNumbers="true" %}
+{% code overflow="wrap" lineNumbers="true" %}
 ```python
 fruits = ['apple','mango','banana']
 fruits.append('orange') #bigO notation //O(1)
@@ -46,5 +46,18 @@ If we wish to add a new value to the list at a particular position and push the 
 ```python
 fruits.insert(0,'orange') #bigO notation //O(n) since it has to iterate through the data and push values forward
 fruits
+```
+{% endcode %}
+
+As you see above adding a value to the beggining of a python list is a procedure that has high time complexity. We can use the deque method in python to do this efficiently. The steps to deque the list and put it back together involves multiple steps however has a time complexity of O(1) hence is more scalable.
+
+{% code overflow="wrap" lineNumbers="true" %}
+```python
+from collections import deque
+fruits = deque(fruits)
+fruits.appendleft('tomato')
+fruits # resulting object: deque(['tomato', 'orange', 'apple', 'mango', 'banana'])
+fruits = list(fruits)
+fruits # resulting list: ['tomato', 'orange', 'apple', 'mango', 'banana']
 ```
 {% endcode %}
