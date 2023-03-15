@@ -8,7 +8,7 @@ Python does not have a native array data structure but a 'list' is the equivalen
 
 The numpy package enables Python to have 1d, 2d arrays which can be used for computation.
 
-The equivalent data structure in R is a vector. R also has a list data type which like it's python equivalent can house multiple data types and data structures within it
+The equivalent data structure in R is a vector. R also has a list data type which like it's python equivalent can house multiple data types and data structures within it. In R vectors and lists, the index of data structures starts at position 1 unlike python or C++
 
 {% code title="Create_n_append_list.py" lineNumbers="true" %}
 ```python
