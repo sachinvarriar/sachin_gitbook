@@ -61,3 +61,5 @@ fruits = list(fruits)
 fruits # resulting list: ['tomato', 'orange', 'apple', 'mango', 'banana']
 ```
 {% endcode %}
+
+Strings can also be assumed to be lists in python
