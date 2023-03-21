@@ -1,5 +1,7 @@
 # Hash Tables/Dictionaries
 
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>image courtesy: <a href="https://programmathically.com/dictionaries-tuples-and-sets-in-python/">https://programmathically.com/dictionaries-tuples-and-sets-in-python/</a></p></figcaption></figure>
+
 Hash tables are seen a lot in databases, cache, etc.
 
 Hash tables have keys, which acts as a index to memory. The key is associated with an index using a hash function.&#x20;
