@@ -62,4 +62,4 @@ fruits # resulting list: ['tomato', 'orange', 'apple', 'mango', 'banana']
 ```
 {% endcode %}
 
-Strings can also be assumed to be lists in python
+Strings can also be assumed to be lists in python, rather the best way to process a string is to make it a list and process it.
