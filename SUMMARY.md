@@ -23,3 +23,4 @@
 * [Interview Preparation](writing-good-code/interview-preparation/README.md)
   * [Data Structures and Algorithms](writing-good-code/interview-preparation/data-structures-and-algorithms/README.md)
     * [Arrays](writing-good-code/interview-preparation/data-structures-and-algorithms/arrays.md)
+    * [Hash Tables/Dictionaries](writing-good-code/interview-preparation/data-structures-and-algorithms/hash-tables-dictionaries.md)
