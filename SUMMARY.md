@@ -15,6 +15,7 @@
 * [MLOps](data-science-and-ml-models/mlops/README.md)
   * [Components of MLOps](data-science-and-ml-models/mlops/components-of-mlops.md)
   * [MLOps tools](data-science-and-ml-models/mlops/mlops-tools.md)
+  * [MLOps Stages](data-science-and-ml-models/mlops/mlops-stages.md)
 
 ## Writing good code&#x20;
 
