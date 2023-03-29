@@ -14,3 +14,10 @@ Here's how ChatGPT defines MLOps:
 >
 > MLOps is becoming increasingly important as more and more organizations rely on machine learning to make critical business decisions. By adopting MLOps best practices, organizations can reduce the time to market for machine learning models, improve the accuracy and reliability of their predictions, and reduce the risk of errors and downtime.
 
+Some of the main challenges that MLOps addresses are:
+
+* Versioning - Tools like git and github can help in versioning the code that builds the model. In addition to this the data and artifacts can be versioned too to ensure reproducibility.
+* Model Tracking - ML models in production can degrade over time due to change in patterns observed in data(data drift).
+* Feature Engineering - Feature generation and Engineering can be automated so that Data scientist can focus on building the model, while reducing the time spent on collecting and cleaning the data.
+
+&#x20;
