@@ -1,6 +1,6 @@
 # Hash Tables/Dictionaries
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>image courtesy: <a href="https://programmathically.com/dictionaries-tuples-and-sets-in-python/">https://programmathically.com/dictionaries-tuples-and-sets-in-python/</a></p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (2).png" alt=""><figcaption><p>image courtesy: <a href="https://programmathically.com/dictionaries-tuples-and-sets-in-python/">https://programmathically.com/dictionaries-tuples-and-sets-in-python/</a></p></figcaption></figure>
 
 Hash tables are seen a lot in databases, cache, etc.
 
