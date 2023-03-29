@@ -4,7 +4,7 @@ MLOps are a set of best practices for Businesses to deploy and run AI/ML algorit
 
 It is essentially modeled on existing devops frameworks, making it DevOps with a data scientist in the team, who curates the datasets and builds the models. In addition to the data scietist there is also an ML Engineer who runs runs the datasets through the models in a disciplined and automated fashion.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>MLOps combine machine learning, applications development and IT operations. Source: Neal Analytics</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>MLOps combine machine learning, applications development and IT operations. Source: Neal Analytics</p></figcaption></figure>
 
 Here's how ChatGPT defines MLOps:
 

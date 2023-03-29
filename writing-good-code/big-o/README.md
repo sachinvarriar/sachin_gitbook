@@ -10,7 +10,7 @@
 
 No matter the number of elements in an array, we do the same number of operations.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## O(n^2) - Quadratic Time
 
