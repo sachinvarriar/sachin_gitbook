@@ -14,6 +14,7 @@
   * [Normalized Mutual Information](data-science-and-ml-models/clustering-validation-techniques/normalized-mutual-information.md)
 * [MLOps](data-science-and-ml-models/mlops/README.md)
   * [Components of MLOps](data-science-and-ml-models/mlops/components-of-mlops.md)
+  * [MLOps tools](data-science-and-ml-models/mlops/mlops-tools.md)
 
 ## Writing good code&#x20;
 
