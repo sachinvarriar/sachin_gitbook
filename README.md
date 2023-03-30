@@ -1,5 +1,4 @@
 ---
-description: There is no place like 127.0.0.1. This is your home page
 coverY: 0
 ---
 
