@@ -1,6 +1,6 @@
 # Components of MLOps
 
-**Feature Store** - Storing functions used in training the ML model. The functions are versioned, so that someone could revert to an older version if the latest features and functions aren't working
+**Feature Store** - Storing functions used in training the ML model. The functions are versioned, so that someone could revert to an older version if the latest features and functions aren't working. eg. Feast, AWS SageMaker Feature Store, Azure Databricks Feature store
 
 **Data Versioning** - Reproduction and facilitating audits
 
