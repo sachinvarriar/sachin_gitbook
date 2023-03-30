@@ -6,4 +6,4 @@ coverY: 0
 
 ## Welcome aboard!
 
-Welcome to my wiki! Here you'll find entries of my ML and DS education
+Welcome to my wiki! Here you'll find quick context to some ML and Data Science terminologies and techniques
