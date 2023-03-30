@@ -16,6 +16,7 @@
   * [Components of MLOps](data-science-and-ml-models/mlops/components-of-mlops.md)
   * [MLOps tools](data-science-and-ml-models/mlops/mlops-tools.md)
   * [MLOps Stages](data-science-and-ml-models/mlops/mlops-stages.md)
+  * [Setting up your first MLOps project](data-science-and-ml-models/mlops/setting-up-your-first-mlops-project.md)
 
 ## Writing good code&#x20;
 
